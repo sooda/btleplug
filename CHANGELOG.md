@@ -1,3 +1,9 @@
+# 0.5.6 (2024-05-12)
+
+## Bugfixes
+
+- Fix hci_filter struct padding to avoid -EINVAL
+
 # 0.5.5 (2021-01-18)
 
 ## Bugfixes
